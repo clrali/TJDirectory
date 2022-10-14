@@ -3,7 +3,6 @@
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-
 .App-link {
   color: #61dafb;
 }
@@ -11,7 +10,7 @@
 .header {
   color: rgb(0, 0, 0);
   font-size: 70px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-weight: 750;
   padding: 20px;
   background-color: rgb(149, 202, 218, 0.5);
@@ -20,15 +19,15 @@
   margin-top: 10px;
 }
 
-.App{
+.App {
   padding: 25px;
 }
 
-.navbar{
+.navbar {
   padding: 15px;
 }
 
-.container{
+.container {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -37,6 +36,6 @@
   margin-bottom: 20px;
 }
 
-.nav{
+.nav {
   margin-right: 100px;
 }
